@@ -23,6 +23,22 @@ I'm a Computer Science student from Pakistan with a strong interest in software 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AbdulRaheem013/AbdulRaheem013/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AbdulRaheem013/AbdulRaheem013/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/AbdulRaheem013/AbdulRaheem013/output/github-snake.svg"
+  />
+</picture>
 
 
 
