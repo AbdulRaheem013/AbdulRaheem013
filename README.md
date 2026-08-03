@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Abdul Raheem
 
-<!--
-**AbdulRaheem013/AbdulRaheem013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about software development and cybersecurity.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Python
+- Django
+- Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## 🎯 Goals
+- Build real-world web applications.
+- Learn cybersecurity fundamentals and hands-on labs.
+- Contribute to open-source projects.
+
+## 📂 Featured Projects
+- Calculator (HTML, CSS, JavaScript)
+- Portfolio Website
