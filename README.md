@@ -1,27 +1,28 @@
-# Hi 👋, I'm Abdul Raheem
 
-I'm a Computer Science student passionate about software development and cybersecurity.
+Hi, I'm Abdul Raheem 👋
 
-## 🚀 Currently Learning
-- HTML
-- CSS
+I'm a Computer Science student from Pakistan with a strong interest in software development and cybersecurity. I enjoy learning new technologies, solving programming problems, and building projects that improve my skills.
+
+🎯 Current Focus:
 - JavaScript
 - Python
-- Django
-- Cybersecurity
-
-## 🛠️ Skills
-- HTML
-- CSS
-- JavaScript
-- Python
+- Web Development
 - Git & GitHub
+- Cybersecurity Fundamentals
 
-## 🎯 Goals
-- Build real-world web applications.
-- Learn cybersecurity fundamentals and hands-on labs.
-- Contribute to open-source projects.
 
-## 📂 Featured Projects
-- Calculator (HTML, CSS, JavaScript)
-- Portfolio Website
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abdul._.0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulraheem.qureshi.2006@gmail.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AbdulRaheem013&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AbdulRaheem013&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbdulRaheem013&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
